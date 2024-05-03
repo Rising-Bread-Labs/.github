@@ -7,5 +7,4 @@ The modpack is Industrial Hegemony, found [here](https://github.com/Rising-Bread
 
 
 
-//Move this description to the modpack repo//
-**Industrial Hegemony**, is a modpack for [Minecraft: Java Edition](https://www.minecraft.net/en-us). (add modpack description here). It is currently being worked on by [LetticeLover](https://github.com/LetticeLover) and [Correlander](https://github.com/Correlander) (hyperlink to our profiles) //Do similar for all projects then remove this from the readme.
+
